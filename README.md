@@ -45,9 +45,15 @@ Il est disponible via le lien GOOGLE DRIVE suivant :
 
 ## 🖼️ Aperçu
 
-<img src="capture-desktop.jpg" width="600">
+<p align="center">
+  <img src="capture-desktop.jpg" width="600">
+</p>
 
-<img src="capture-mobile.jpg" width="300">
+<p align="center">
+  <img src="capture-mobile.jpg" width="300">
+</p>
+
+
 
 
 

@@ -35,9 +35,13 @@ Auto-layout
 
 Grille 12 colonnes
 
-💾 Fichier source
+## 💾 Fichier source (.fig)
 
-DEVOIR-FIGMA-PROBEATS.fig
+Le fichier .fig dépasse la limite d’upload GitHub (25 Mo).  
+Il est disponible via le lien GOOGLE DRIVE suivant :
+
+[Télécharger le fichier en format .fig DEVOIR-FIGMA-PROBEATS.fig](https://drive.google.com/file/d/1zZDDPMSxdV8gXYf1GgmV-I4a9gt8tNbb/view?usp=drive_link)
+
 
 ## 🖼️ Aperçu
 

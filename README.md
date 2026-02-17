@@ -45,9 +45,9 @@ Il est disponible via le lien GOOGLE DRIVE suivant :
 
 ## 🖼️ Aperçu
 
-<img src="capture-desktop.png" width="600">
+<img src="capture-desktop.jpg" width="600">
 
-<img src="capture-mobile.png" width="300">
+<img src="capture-mobile.jpg" width="300">
 
 
 

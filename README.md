@@ -45,12 +45,16 @@ Il est disponible via le lien GOOGLE DRIVE suivant :
 
 ## 🖼️ Aperçu
 
-<p align="center">
-  <img src="capture-desktop.jpg" width="600">
-</p>
+Aperçu DESKTOP :
 
 <p align="center">
-  <img src="capture-mobile.jpg" width="300">
+  <img src="capture-desktop.jpg" width="400">
+</p>
+
+Aperçu MOBILE :
+
+<p align="center">
+  <img src="capture-mobile.jpg" width="200">
 </p>
 
 
